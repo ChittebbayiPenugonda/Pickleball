@@ -1,0 +1,19 @@
+/*carousel*/
+
+    .owl-item .feature_left{
+        border-top-right-radius:0px !important;
+        border-bottom-right-radius:0px !important;
+        background-color: #f88264 !important;
+        background-image: linear-gradient(#f79d86, #f88264);
+        height:280px;
+        border:none !important;         
+    }
+    .owl-item .feature_right{
+        border:none !important;
+            border-image: linear-gradient(45deg, rgb(0,143,104), rgb(250,224,66)) 1;
+        background-color:#d7ccfa;
+        height:280px;
+        background-image: linear-gradient(#a681fc, #8050ef);
+        border-top-right-radius:16px !important;
+        border-bottom-right-radius:16px !important; 
+    }
