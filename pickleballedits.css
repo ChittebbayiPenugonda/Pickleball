@@ -5,7 +5,7 @@
         background-color: #f88264 !important;
         background-image: linear-gradient(#f79d86, #f88264);
         height:280px;
-        border:none !important;         
+        border:none !important;
     }
     .owl-item .feature_right{
         border:none !important;
@@ -23,6 +23,8 @@
         background: #444;
         margin: 0 auto;
         overflow:hidden;
+        border-top-right-radius:18px !important;
+        border-bottom-right-radius:18px !important; 
     }
 
     .owl-item .feature_right .feature_img img{
